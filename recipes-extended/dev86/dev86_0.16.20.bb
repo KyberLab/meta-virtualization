@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=8ca43cbc842c2336e835926c2166c28b"
 SECTION = "console/tools"
 PR="r0"
 
-SRC_URI="http://v3.sk/~lkundrak/dev86/archive/Dev86src-${PV}.tar.gz"
+SRC_URI="https://openxt.ainfosec.com/mirror/Dev86src-${PV}.tar.gz"
 
 SRC_URI[md5sum] = "567cf460d132f9d8775dd95f9208e49a"
 SRC_URI[sha256sum] = "61817a378c8c8ba65f36c6792d457a305dc4eedae8cdc8b6233bf2bb28e5fe8d"
